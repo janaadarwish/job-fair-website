@@ -13,7 +13,7 @@ A comprehensive networking platform designed to bridge the gap between universit
 | **Haidi** | [@HAIDI-A](https://github.com/HAIDI-A) |
 | **Nour Ehab** | [@nour-ehab](https://github.com/nour-ehab) |
 | **Noha Emad** | [@Nohaemad19](https://github.com/Nohaemad19) |
-| **Jana Amin** | [@janaadarwsh](https://github.com/janaadarwish) |
+| **Jana Amin** | [@janaadarwish](https://github.com/janaadarwish) |
 
 ---
 
