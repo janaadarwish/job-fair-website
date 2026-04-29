@@ -58,9 +58,3 @@ To maintain a DRY (Don't Repeat Yourself) architecture, we utilize several share
 * **Analytics-Driven:** Comprehensive reporting for both recruiter performance and fair-wide activity.
 
 ---
-
-## 🚦 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yasmin-mohamed55/WorkPortal.git](https://github.com/yasmin-mohamed55/WorkPortal.git)# job-fair-website
