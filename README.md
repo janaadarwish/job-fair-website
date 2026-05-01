@@ -14,6 +14,7 @@ A comprehensive networking platform designed to bridge the gap between universit
 | **Nour Ehab** | [@nour-ehab](https://github.com/nour-ehab) |
 | **Noha Emad** | [@Nohaemad19](https://github.com/Nohaemad19) |
 | **Jana Amin** | [@janaadarwish](https://github.com/janaadarwish) |
+| **menna mohamed** | [@mennamohamed4](https://github.com/mennamohamed4) |
 
 ---
 
